@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Priya Kumari
 - 👀 I’m interested in coding and graphic designing
 - 🌱 I’m currently learning Python Programming Language, Machine Learning and Data Structure
-- 💞️ I’m looking to collaborate on Python Programming Language
+- 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me @_dhanwi_ (My instagram I'd)
 
 <!---
