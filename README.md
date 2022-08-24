@@ -1,7 +1,7 @@
 -  Hi, I’m @Priya Kumari
--  I’m frontend developer.
--  I’m currently learning full stack web development and Data Structure Algorithm.
--  I know a little bit of graphic and logo designing (using Adobe Illustrator).
+-  Frontend developer.
+-  Currently learning full stack web development and Data Structure Algorithm.
+-  Know a little bit of graphic and logo designing (using Adobe Illustrator).
 -  I’m looking to collaborate on Project.
 -  How to reach me @_dhanwi_ (My instagram I'd), @PriyaKu92735600 (twitter)
 
