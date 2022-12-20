@@ -1,7 +1,7 @@
-- <h1 align="center">Hi 👋, I'm Priya Kumari</h1>
+<h1 align="center">Hi 👋, I'm Priya Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/86427983/208737111-7aff1c7d-0221-4df0-8cb0-c32bc3fb9c8d.png)">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanwi&label=Profile%20views&color=0e75b6&style=flat" alt="dhanwi" /> </p>
 
@@ -52,6 +52,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanwi&show_icons=true&locale=en&layout=compact" alt="dhanwi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanwi&show_icons=true&locale=en" alt="dhanwi" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dhanwi&show_icons=true&locale=en" alt="dhanwi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanwi&" alt="dhanwi" /></p>
