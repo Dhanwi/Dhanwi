@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="left" padding="10px" alt="coding" width="350" src="https://content.presentermedia.com/files/animsp/00005000/5655/working_on_computer_lg_wm.gif">
+<img align="left" padding="10px" alt="coding" width="350" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanwi&label=Profile%20views&color=0e75b6&style=flat" alt="dhanwi" /> </p>
 
