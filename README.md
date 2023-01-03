@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanwi&label=Profile%20views&color=0e75b6&style=flat" alt="dhanwi" /> </p>
 
-<p align="left" style = "background-image: url('https://i.gifer.com/origin/c5/c5056fe916b043776e98d6149847ffbd_w200.gif'); background-repeat: no-repeat;
+<p style = "background-image: url('https://i.gifer.com/origin/c5/c5056fe916b043776e98d6149847ffbd_w200.gif'); background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanwi" alt="dhanwi" /></a> </p>
 
