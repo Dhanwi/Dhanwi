@@ -56,6 +56,6 @@
 <p>  </p>
 <p><img align="left" padding= "4px 0 4px 0" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanwi&show_icons=true&locale=en&layout=compact" alt="dhanwi" /></p> <br><br>
 <p>  </p>
-<p>&nbsp;<img align="left" padding= "4px 0 4px 0" width="400"src="https://github-readme-stats.vercel.app/api?username=dhanwi&show_icons=true&locale=en" alt="dhanwi" /></p><br><br>
+<p>&nbsp;<img align="left" padding= "4px 0 4px 0" width="500"src="https://github-readme-stats.vercel.app/api?username=dhanwi&show_icons=true&locale=en" alt="dhanwi" /></p><br><br>
 <p>   </p>
-<p><img align="left" padding= "4px 0 4px 0" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanwi&" alt="dhanwi" /></p>
+<p><img align="left" padding= "4px 0 4px 0" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanwi&" alt="dhanwi" /></p>
