@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="left" padding="10px" alt="coding" width="350" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="left" padding="10px" alt="coding" width="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.presentermedia.com%2Fpowerpoint-animation%2Fstick-figure-working-laptop-desk-pid-4555&psig=AOvVaw0FxDRmb9FvIQy_3KmJ4oke&ust=1672843487136000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDXxuDRq_wCFQAAAAAdAAAAABB5">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanwi&label=Profile%20views&color=0e75b6&style=flat" alt="dhanwi" /> </p>
 
