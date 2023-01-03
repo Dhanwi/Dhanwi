@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanwi" alt="dhanwi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/priyaku92735600" target="blank"><img src="https://img.shields.io/twitter/follow/priyaku92735600?logo=twitter&style=for-the-badge" alt="priyaku92735600" /></a> </p>
+<p align="left" background-image: url('https://i.gifer.com/origin/c5/c5056fe916b043776e98d6149847ffbd_w200.gif')> <a href="https://twitter.com/priyaku92735600" target="blank"><img src="https://img.shields.io/twitter/follow/priyaku92735600?logo=twitter&style=for-the-badge" alt="priyaku92735600" /></a> </p>
 
 - 🔭 I’m currently working on **Stock Market Prediction**
 
