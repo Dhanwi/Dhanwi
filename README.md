@@ -54,7 +54,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dbgpriyakuT"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dbgpriyakuT" /></a><a href="https://ko-fi.com/priyakumari59275"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="priyakumari59275" /></a></p><br><br>
 
-<p><img align="left" padding= "2px" width = "300" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanwi&show_icons=true&locale=en&layout=compact" alt="dhanwi" /></p>
+<p><img align="centre" padding= "7px" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanwi&show_icons=true&locale=en&layout=compact" alt="dhanwi" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dhanwi&show_icons=true&locale=en" alt="dhanwi" /></p>
 
