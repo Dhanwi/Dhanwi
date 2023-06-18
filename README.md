@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/priyaku92735600" target="blank"><img src="https://img.shields.io/twitter/follow/priyaku92735600?logo=twitter&style=for-the-badge" alt="priyaku92735600" /></a> </p>
 
-- 🔭 I’m currently working on **Stock Market Prediction**
+- 🔭 I’m currently working on **MERN STACK Project **
 
-- 🌱 I’m currently learning **Backend Development,**
+- 🌱 I’m currently practising **Data Structure And Algorithm**
 
 - 👯 I’m looking to collaborate on [Drone Website](https://drone-webpage-u5wi.vercel.app/)
 
