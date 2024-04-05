@@ -9,7 +9,7 @@
   background-attachment: fixed;
   background-size: cover;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanwi" alt="dhanwi" /></a> </p>
   
-  <img align="right" padding="7px" margin="0 0 0 2vw" alt="coding" width="250" src="https://i.ibb.co/LdWhbV2/QWsX.gif">
+  <img align="right" padding="7px" margin="0 0 0 2vw" alt="coding" width="550" src="https://i.ibb.co/LdWhbV2/QWsX.gif">
 
 <p align="left"> <a href="https://twitter.com/priyaku92735600" target="blank"><img src="https://img.shields.io/twitter/follow/priyaku92735600?logo=twitter&style=for-the-badge" alt="priyaku92735600" /></a> </p>
 
