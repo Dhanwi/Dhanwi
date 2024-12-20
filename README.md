@@ -18,17 +18,14 @@
 
 - 🔭 I’m currently working on **MERN STACK Project**
 
-- 🌱 I’m currently practising **Data Structure And Algorithm**
-
-- 👯 I’m looking to collaborate on [Drone Website](https://drone-webpage-u5wi.vercel.app/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Dhanwi](https://github.com/Dhanwi)
+- 🌱 I’m currently practising **Blockchain and web3 Technology**
+- 👨‍💻 All of my projects are available at [Dhanwi](https://github.com/Dhanwi)
 
 - 💬 Ask me about **Frontend development, DSA**
 
 - 📫 How to reach me **dbgpriyakumari@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MegXVv9F1q__EoeSGFzxmCOQ85HLMDpW/view?usp=drivesdk](https://drive.google.com/file/d/1MegXVv9F1q__EoeSGFzxmCOQ85HLMDpW/view?usp=drivesdk)
+- 🏢 [know about my experience](https://priya-portfolio-2sk5.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
