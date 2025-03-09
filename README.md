@@ -10,7 +10,7 @@
   background-size: cover;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanwi" alt="dhanwi" /></a> </p>
   
 
-  <img align="right" padding="5px" margin="0 0 0 2vw" alt="coding"  width="450" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4871258-Web-development&psig=AOvVaw1g7JM1Jt0rzJtWCA9qvaRY&ust=1741608808403000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIii2Nf__IsDFQAAAAAdAAAAABAE">
+  <img align="right" padding="5px" margin="0 0 0 2vw" alt="coding"  width="450" src="https://i.ibb.co/LdWhbV2/QWsX.gif">
 
   
 
