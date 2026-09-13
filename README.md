@@ -32,7 +32,7 @@ ask_me_about: [GenAI system design, RAG architecture, microfrontends, 0→1 prod
 ```
 
 -  **GenAI Systems Engineer** — designed and shipped multi-agent, RAG, and stateful conversational systems used in enterprise environments
--  **Full-Stack Architect** — built [Kaaryasetu](https://kaaryasetu.com), a MERN + AI platform serving **550+ active users** and a **500+ member** community
+-  **Full-Stack Architect** — built [Kaaryasetu], a MERN + AI platform serving **550+ active users** and a **500+ member** community
 -  **Microfrontend Optimizer** — improved load performance and modularity across large-scale React frontends
 -  **Cloud & Infra** — deploys and scales services on **AWS EC2**, with hands-on production DevOps experience
 -  Ask me about **GenAI system design, RAG architecture, agentic workflows, or building from 0 → 1**
