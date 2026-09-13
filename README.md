@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=LLM+Orchestration+%7C+LangGraph+%2F+LangChain;RAG+Pipelines+%40+Production+Scale;FastAPI+%2B+Node.js+Microservices;React+%2F+TypeScript+High-Performance+UIs" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/priya-kumari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <!-- <a href="https://linkedin.com/in/priya-kumari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
   <a href="https://twitter.com/priyaku92735600"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://github.com/Dhanwi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.leetcode.com/dhanwi"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
@@ -18,7 +18,7 @@
 
 <br>
 
-## ⚡ About Me
+##  About Me
 
 ```yaml
 role: Software Development Engineer (GenAI & Full-Stack)
@@ -31,18 +31,18 @@ currently: Building autonomous multi-agent systems for enterprise SRE & knowledg
 ask_me_about: [GenAI system design, RAG architecture, microfrontends, 0→1 product builds]
 ```
 
-- 🧠 **GenAI Systems Engineer** — designed and shipped multi-agent, RAG, and stateful conversational systems used in enterprise environments
-- 🏗️ **Full-Stack Architect** — built [Kaaryasetu](https://kaaryasetu.com), a MERN + AI platform serving **550+ active users** and a **500+ member** community
-- ⚙️ **Microfrontend Optimizer** — improved load performance and modularity across large-scale React frontends
-- ☁️ **Cloud & Infra** — deploys and scales services on **AWS EC2**, with hands-on production DevOps experience
-- 💬 Ask me about **GenAI system design, RAG architecture, agentic workflows, or building from 0 → 1**
+-  **GenAI Systems Engineer** — designed and shipped multi-agent, RAG, and stateful conversational systems used in enterprise environments
+-  **Full-Stack Architect** — built [Kaaryasetu](https://kaaryasetu.com), a MERN + AI platform serving **550+ active users** and a **500+ member** community
+-  **Microfrontend Optimizer** — improved load performance and modularity across large-scale React frontends
+-  **Cloud & Infra** — deploys and scales services on **AWS EC2**, with hands-on production DevOps experience
+-  Ask me about **GenAI system design, RAG architecture, agentic workflows, or building from 0 → 1**
 
 <br>
 
-## 🚀 Featured Work
+##  Featured Work
 
 <details open>
-<summary><b>🔎 Recall — Enterprise RAG Platform</b></summary>
+<summary><b> Recall — Enterprise RAG Platform</b></summary>
 <br>
 
 > Retrieval-Augmented Generation pipeline built for accurate, context-grounded enterprise knowledge retrieval.
@@ -71,7 +71,7 @@ ask_me_about: [GenAI system design, RAG architecture, microfrontends, 0→1 prod
 </details>
 
 <details>
-<summary><b>💬 Nexa — Stateful Conversational Chatbot</b></summary>
+<summary><b> Nexa — Stateful Conversational Chatbot</b></summary>
 <br>
 
 > A conversational AI system that maintains long-running context and state across multi-turn interactions.
@@ -85,7 +85,7 @@ ask_me_about: [GenAI system design, RAG architecture, microfrontends, 0→1 prod
 </details>
 
 <details>
-<summary><b>🌉 Kaaryasetu — Full-Stack MERN AI Platform</b></summary>
+<summary><b> Kaaryasetu — Full-Stack MERN AI Platform</b></summary>
 <br>
 
 > Full-stack platform built end-to-end and scaled since launch in March 2025.
@@ -105,10 +105,10 @@ ask_me_about: [GenAI system design, RAG architecture, microfrontends, 0→1 prod
 
 <br>
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 <details open>
-<summary><b>🤖 GenAI & LLM Orchestration</b></summary>
+<summary><b> GenAI & LLM Orchestration</b></summary>
 <br>
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -121,7 +121,7 @@ ask_me_about: [GenAI system design, RAG architecture, microfrontends, 0→1 prod
 </details>
 
 <details open>
-<summary><b>🎨 Frontend & Desktop</b></summary>
+<summary><b> Frontend & Desktop</b></summary>
 <br>
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,electron,redux" />
@@ -129,7 +129,7 @@ ask_me_about: [GenAI system design, RAG architecture, microfrontends, 0→1 prod
 </details>
 
 <details open>
-<summary><b>🛠️ Backend & Databases</b></summary>
+<summary><b> Backend & Databases</b></summary>
 <br>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,java,cpp,c,mongodb,postgres,redis" />
@@ -137,7 +137,7 @@ ask_me_about: [GenAI system design, RAG architecture, microfrontends, 0→1 prod
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b> Cloud & DevOps</b></summary>
 <br>
 
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,nginx,vercel" />
@@ -146,7 +146,7 @@ ask_me_about: [GenAI system design, RAG architecture, microfrontends, 0→1 prod
 
 <br>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanwi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -163,7 +163,7 @@ ask_me_about: [GenAI system design, RAG architecture, microfrontends, 0→1 prod
 
 <br>
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 Open to collaborating on GenAI systems, agentic architectures, or full-stack products — reach out anytime.
 
