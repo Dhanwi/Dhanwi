@@ -163,6 +163,9 @@ ask_me_about: [GenAI system design, RAG architecture, microfrontends, 0→1 prod
 
 <br>
 
+## 3D Contribution Skyline
+<div align="center"> <img src="./profile-3d-contrib/profile-night-green.svg" width="90%" alt="3D contribution graph (night green theme)" /> <br><br> <img src="./profile-3d-contrib/profile-night-view.svg" width="90%" alt="3D contribution graph (night view theme)" /> </div> <p align="center"><i>Auto-generated daily via GitHub Actions — see <code>.github/workflows/profile-3d.yml</code></i></p> <br>
+
 ##  Let's Connect
 
 Open to collaborating on GenAI systems, agentic architectures, or full-stack products — reach out anytime.
