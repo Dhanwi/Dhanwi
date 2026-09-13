@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Priya Kumari - Software Development Engineer, GenAI & Full-Stack" />
+<img src="./assets/header (1).svg" width="100%" alt="Priya Kumari - Software Development Engineer, GenAI & Full-Stack" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=LLM+Orchestration+%7C+LangGraph+%2F+LangChain;RAG+Pipelines+%40+Production+Scale;FastAPI+%2B+Node.js+Microservices;React+%2F+TypeScript+High-Performance+UIs" />
 
@@ -174,6 +174,6 @@ Open to collaborating on GenAI systems, agentic architectures, or full-stack pro
   <a href="https://www.buymeacoffee.com/dbgpriyakuT"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
-<img src="./assets/footer.svg" width="100%" alt="" />
+<img src="./assets/footer (1).svg" width="100%" alt="" />
 
 </div>
