@@ -57,7 +57,7 @@ ask_me_about: [GenAI system design, RAG architecture, microfrontends, 0→1 prod
 </details>
 
 <details>
-<summary><b>🛰️ Sentinel — Multi-Agent SRE Copilot</b></summary>
+<summary><b> Sentinel — Multi-Agent SRE Copilot</b></summary>
 <br>
 
 > A multi-agent system that assists Site Reliability Engineers with incident triage, diagnostics, and remediation guidance.
@@ -99,7 +99,6 @@ ask_me_about: [GenAI system design, RAG architecture, microfrontends, 0→1 prod
 | **Community** | Led a frontend bootcamp · 500+ member community |
 | **Impact** | 550+ active users since March 2025 launch |
 
-🔗 [kaaryasetu.com](https://kaaryasetu.com)
 
 </details>
 
@@ -148,10 +147,10 @@ ask_me_about: [GenAI system design, RAG architecture, microfrontends, 0→1 prod
 
 ##  GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanwi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanwi&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanwi&theme=tokyonight&hide_border=true" />
