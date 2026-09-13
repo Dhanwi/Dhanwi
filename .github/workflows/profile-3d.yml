@@ -1,0 +1,40 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    # Runs daily at 00:00 UTC (adjust to your preferred time, in UTC)
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate 3D contribution graphs
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          # Optional: cap repos scanned (default 100)
+          # MAX_REPOS: 200
+
+      - name: Commit & push generated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A ./profile-3d-contrib
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update 3D contribution graph [skip ci]"
+            git push
+          fi
