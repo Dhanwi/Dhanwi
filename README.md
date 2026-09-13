@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Priya%20Kumari&fontSize=48&fontColor=00f0ff&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20Engineer%20%7C%20GenAI%20%26%20Full-Stack&descAlignY=55&descSize=18&fontColor=e0e0e0" />
+<img src="./assets/header.svg" width="100%" alt="Priya Kumari - Software Development Engineer, GenAI & Full-Stack" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=650&lines=LLM+Orchestration+%7C+LangGraph+%2F+LangChain;RAG+Pipelines+%40+Production+Scale;FastAPI+%2B+Node.js+Microservices;React+%2F+TypeScript+High-Performance+UIs" />
 
@@ -174,6 +174,6 @@ Open to collaborating on GenAI systems, agentic architectures, or full-stack pro
   <a href="https://www.buymeacoffee.com/dbgpriyakuT"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+<img src="./assets/footer.svg" width="100%" alt="" />
 
 </div>
